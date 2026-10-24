@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Model gallery</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "./vendor/three/build/three.module.js",
+        "three/addons/": "./vendor/three/examples/jsm/"
+      }
+    }
+  </script>
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <main>
+    <header>
+      <p class="eyebrow">THE LOCAL COLLECTION</p>
+      <h1>Model gallery<span>.</span></h1>
+      <p class="intro">One model. Two ways to see it.</p>
+    </header>
+
+    <section class="toolbar" aria-label="Gallery controls">
+      <div class="model-picker">
+        <label for="model-select">Choose a model</label>
+        <select id="model-select" disabled><option>Loading collection…</option></select>
+      </div>
+      <label class="cycle-control" for="auto-cycle">
+        <input type="checkbox" id="auto-cycle" disabled>
+        <span class="switch" aria-hidden="true"></span>
+        <span><strong>Cycle all models</strong><small>5 seconds per model</small></span>
+      </label>
+    </section>
+
+    <section class="comparison" aria-label="Model rendering comparison">
+      <article class="viewer-card">
+        <div class="viewer-heading"><h2>&lt;model&gt;</h2><span>Native browser rendering</span></div>
+        <div class="viewport" id="native-viewport">
+          <div id="native-host"></div>
+          <div class="message" id="native-message" role="status"><span>Loading…</span></div>
+        </div>
+        <p class="viewer-status" id="native-status" aria-live="polite">Waiting for a model</p>
+      </article>
+      <article class="viewer-card">
+        <div class="viewer-heading"><h2>Three.js</h2><span>WebGL rendering</span></div>
+        <div class="viewport" id="three-viewport">
+          <div id="three-host"></div>
+          <div class="message" id="three-message" role="status"><span>Loading…</span></div>
+        </div>
+        <p class="viewer-status" id="three-status" aria-live="polite">Waiting for a model</p>
+      </article>
+    </section>
+
+    <footer>
+      <div class="asset-details"><strong id="model-name">Model gallery</strong><span id="model-details">Loading collection…</span></div>
+      <div class="cycle-details"><span id="cycle-status" aria-live="polite">Manual selection</span><span id="model-count"></span></div>
+    </footer>
+    <div class="progress-track" aria-hidden="true"><div id="cycle-progress"></div></div>
+    <p class="hint">Both models turn once every 5 seconds. Drag the Three.js view to orbit; scroll to zoom.</p>
+    <noscript><p>Enable JavaScript to select and cycle through models.</p></noscript>
+  </main>
+</body>
+</html>

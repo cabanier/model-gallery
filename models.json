@@ -1,0 +1,278 @@
+[
+  {
+    "name": "Anisotropy Barn Lamp",
+    "path": "AnisotropyBarnLamp.glb",
+    "url": "models/AnisotropyBarnLamp.glb",
+    "bytes": 5146716
+  },
+  {
+    "name": "Bath day",
+    "path": "bath_day.glb",
+    "url": "models/bath_day.glb",
+    "bytes": 811108
+  },
+  {
+    "name": "Boom Box",
+    "path": "BoomBox.glb",
+    "url": "models/BoomBox.glb",
+    "bytes": 2269084
+  },
+  {
+    "name": "Carbon Frame Bike",
+    "path": "CarbonFrameBike.glb",
+    "url": "models/CarbonFrameBike.glb",
+    "bytes": 3395040
+  },
+  {
+    "name": "Clearcoat Test",
+    "path": "ClearcoatTest/ClearcoatTest.glb",
+    "url": "models/ClearcoatTest/ClearcoatTest.glb",
+    "bytes": 238416
+  },
+  {
+    "name": "Coffee Mug",
+    "path": "coffeeMug.glb",
+    "url": "models/coffeeMug.glb",
+    "bytes": 528032
+  },
+  {
+    "name": "Coffeemat",
+    "path": "coffeemat.glb",
+    "url": "models/coffeemat.glb",
+    "bytes": 4780672
+  },
+  {
+    "name": "Collision world",
+    "path": "collision-world.glb",
+    "url": "models/collision-world.glb",
+    "bytes": 94556
+  },
+  {
+    "name": "Diffuse Roughness Parameter Sweep",
+    "path": "DiffuseRoughnessParameterSweep.glb",
+    "url": "models/DiffuseRoughnessParameterSweep.glb",
+    "bytes": 67752
+  },
+  {
+    "name": "Dispersion Test",
+    "path": "DispersionTest.glb",
+    "url": "models/DispersionTest.glb",
+    "bytes": 1382692
+  },
+  {
+    "name": "Dragon Attenuation",
+    "path": "DragonAttenuation.glb",
+    "url": "models/DragonAttenuation.glb",
+    "bytes": 6566656
+  },
+  {
+    "name": "Duck",
+    "path": "duck.glb",
+    "url": "models/duck.glb",
+    "bytes": 32464
+  },
+  {
+    "name": "Dungeon warkarma",
+    "path": "dungeon_warkarma.glb",
+    "url": "models/dungeon_warkarma.glb",
+    "bytes": 7990584
+  },
+  {
+    "name": "Facecap",
+    "path": "facecap.glb",
+    "url": "models/facecap.glb",
+    "bytes": 332808
+  },
+  {
+    "name": "Ferrari",
+    "path": "ferrari.glb",
+    "url": "models/ferrari.glb",
+    "bytes": 1681572
+  },
+  {
+    "name": "Flamingo",
+    "path": "Flamingo.glb",
+    "url": "models/Flamingo.glb",
+    "bytes": 77428
+  },
+  {
+    "name": "Flower",
+    "path": "Flower/Flower.glb",
+    "url": "models/Flower/Flower.glb",
+    "bytes": 4848
+  },
+  {
+    "name": "Forest house (AVIF)",
+    "path": "AVIFTest/forest_house.glb",
+    "url": "models/AVIFTest/forest_house.glb",
+    "bytes": 303984
+  },
+  {
+    "name": "Gears",
+    "path": "gears.glb",
+    "url": "models/gears.glb",
+    "bytes": 78312
+  },
+  {
+    "name": "Godrays demo",
+    "path": "godrays_demo.glb",
+    "url": "models/godrays_demo.glb",
+    "bytes": 75824
+  },
+  {
+    "name": "Horse",
+    "path": "Horse.glb",
+    "url": "models/Horse.glb",
+    "bytes": 181808
+  },
+  {
+    "name": "Iridescence Lamp",
+    "path": "IridescenceLamp.glb",
+    "url": "models/IridescenceLamp.glb",
+    "bytes": 5291216
+  },
+  {
+    "name": "Iridescent Dish With Olives",
+    "path": "IridescentDishWithOlives.glb",
+    "url": "models/IridescentDishWithOlives.glb",
+    "bytes": 4095320
+  },
+  {
+    "name": "Kira",
+    "path": "kira.glb",
+    "url": "models/kira.glb",
+    "bytes": 983004
+  },
+  {
+    "name": "Lee Perry Smith",
+    "path": "LeePerrySmith/LeePerrySmith.glb",
+    "url": "models/LeePerrySmith/LeePerrySmith.glb",
+    "bytes": 404976
+  },
+  {
+    "name": "Littlest Tokyo",
+    "path": "LittlestTokyo.glb",
+    "url": "models/LittlestTokyo.glb",
+    "bytes": 4133072
+  },
+  {
+    "name": "Michelle",
+    "path": "Michelle.glb",
+    "url": "models/Michelle.glb",
+    "bytes": 3276888
+  },
+  {
+    "name": "Nefertiti",
+    "path": "Nefertiti/Nefertiti.glb",
+    "url": "models/Nefertiti/Nefertiti.glb",
+    "bytes": 1233240
+  },
+  {
+    "name": "Nemetona",
+    "path": "nemetona.glb",
+    "url": "models/nemetona.glb",
+    "bytes": 3809460
+  },
+  {
+    "name": "Parrot",
+    "path": "Parrot.glb",
+    "url": "models/Parrot.glb",
+    "bytes": 97024
+  },
+  {
+    "name": "Pool",
+    "path": "pool.glb",
+    "url": "models/pool.glb",
+    "bytes": 786304
+  },
+  {
+    "name": "Primary Ion Drive",
+    "path": "PrimaryIonDrive.glb",
+    "url": "models/PrimaryIonDrive.glb",
+    "bytes": 5800408
+  },
+  {
+    "name": "Readyplayer.me",
+    "path": "readyplayer.me.glb",
+    "url": "models/readyplayer.me.glb",
+    "bytes": 1838884
+  },
+  {
+    "name": "Robot Expressive",
+    "path": "RobotExpressive/RobotExpressive.glb",
+    "url": "models/RobotExpressive/RobotExpressive.glb",
+    "bytes": 463988
+  },
+  {
+    "name": "Rolex",
+    "path": "rolex.glb",
+    "url": "models/rolex.glb",
+    "bytes": 1276216
+  },
+  {
+    "name": "Shader Ball",
+    "path": "ShaderBall.glb",
+    "url": "models/ShaderBall.glb",
+    "bytes": 1439136
+  },
+  {
+    "name": "Shader Ball2",
+    "path": "ShaderBall2.glb",
+    "url": "models/ShaderBall2.glb",
+    "bytes": 203976
+  },
+  {
+    "name": "Shadowmappable Mesh",
+    "path": "ShadowmappableMesh.glb",
+    "url": "models/ShadowmappableMesh.glb",
+    "bytes": 381512
+  },
+  {
+    "name": "Sheen Chair",
+    "path": "SheenChair.glb",
+    "url": "models/SheenChair.glb",
+    "bytes": 4396728
+  },
+  {
+    "name": "Soldier",
+    "path": "Soldier.glb",
+    "url": "models/Soldier.glb",
+    "bytes": 2160468
+  },
+  {
+    "name": "Space ship hallway",
+    "path": "space_ship_hallway.glb",
+    "url": "models/space_ship_hallway.glb",
+    "bytes": 2896272
+  },
+  {
+    "name": "Steampunk camera",
+    "path": "steampunk_camera.glb",
+    "url": "models/steampunk_camera.glb",
+    "bytes": 3946424
+  },
+  {
+    "name": "Stork",
+    "path": "Stork.glb",
+    "url": "models/Stork.glb",
+    "bytes": 76852
+  },
+  {
+    "name": "Tennyson bust",
+    "path": "tennyson-bust.glb",
+    "url": "models/tennyson-bust.glb",
+    "bytes": 462200
+  },
+  {
+    "name": "Venice mask",
+    "path": "venice_mask.glb",
+    "url": "models/venice_mask.glb",
+    "bytes": 4282264
+  },
+  {
+    "name": "Xbot",
+    "path": "Xbot.glb",
+    "url": "models/Xbot.glb",
+    "bytes": 2930032
+  }
+]
